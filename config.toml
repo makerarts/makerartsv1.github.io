@@ -1,0 +1,27 @@
+baseURL = 'https://makerarts.github.io/'
+languageCode = 'en-us'
+title = 'Maker Arts'
+theme = "ava"
+
+[params.meta_tags]
+  meta_og_image = "/images/default.jpg"
+
+[[menu.main]]
+        name = "Home"
+        url = "/"
+    weight = 1
+
+[[menu.main]]
+    name = "About"
+    url = "/about/"
+    weight = 2
+
+[[menu.main]]
+    name = "Contact"
+    url = "/contact/"
+    weight = 4
+
+[permalinks]
+  posts = "/:year/:month/:day/:slug/"
+  pages = "/:filename/"
+
