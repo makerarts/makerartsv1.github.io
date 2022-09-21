@@ -17,8 +17,8 @@ theme = "ava"
     weight = 2
 
 [[menu.main]]
-    name = "Employability"
-    url = "/employability/"
+    name = "Awards"
+    url = "/awards/"
     weight = 3
 
 [[menu.main]]

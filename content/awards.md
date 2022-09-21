@@ -1,7 +1,7 @@
 ---
 title: "Awards"
 date: 2022-09-21T21:02:09+01:00
-draft: true
+draft: false
 ---
 We run science and arts awards programs for home education and other groups.
 
