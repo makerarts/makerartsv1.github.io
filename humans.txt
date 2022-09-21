@@ -6,18 +6,15 @@
                                                       
 
 /* TEAM */
-Developer: XXX
-GitHub: XXX
+Developer: 
+GitHub: makerarts.github.io
 
 /* THANKS */
 Hugo
 https://github.com/jmau111/hugo-theme-ava
 
 /* SITE */
-Last update: 2021
+Last update: 2022
 Standards: HTML, Go, SCSS, CSS, JavaScript
 Components: humans-generator
-Softwares: Visual Studio Code
-
-/* NOTE */
-Made in XXX
+Software: the one true IDE
