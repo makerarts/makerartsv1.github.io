@@ -1,6 +1,7 @@
 ---
-title: "Awards"
+title: "Arts Awards"
 date: 2022-09-21T21:02:09+01:00
+image: /images/art-linocut.jpeg
 draft: false
 ---
 We run science and arts awards programs for home education and other groups.
@@ -30,18 +31,15 @@ The Silver Arts Award is a Level 2 qualification on the Regulated Qualifications
 
 To achieve a Silver Arts Award, young people collect evidence in an individual arts portfolio of their experiences of:
 
-#### Arts practice and pathways
-
+Arts practice and pathways
 * identifying and planning an arts challenge
 * implementing and reviewing their arts challenge
 * reviewing arts events/experiences and sharing their views
 * researching future opportunities and careers in the arts
 
-#### Arts leadership
-
+Arts leadership
 * identifying a leadership role and planning a leadership project
 * planning the practical issues
 * being an effective arts leader
 * working effectively with others
 * reviewing their project and the development of their leadership skills
-

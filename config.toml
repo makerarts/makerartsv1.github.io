@@ -12,13 +12,13 @@ theme = "ava"
     weight = 1
 
 [[menu.main]]
-    name = "About"
-    url = "/about/"
-    weight = 2
+    name = "Arts Awards"
+    url = "/artsawards/"
+    weight = 3
 
 [[menu.main]]
-    name = "Awards"
-    url = "/awards/"
+    name = "Science Awards"
+    url = "/scienceawards/"
     weight = 3
 
 [[menu.main]]
