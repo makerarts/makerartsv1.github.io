@@ -1,4 +1,4 @@
-baseURL = 'https://makerarts.github.io/'
+baseURL = 'https://www.makerarts.co.uk/'
 languageCode = 'en-us'
 title = 'Maker Arts'
 theme = "ava"
