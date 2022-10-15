@@ -1,7 +1,7 @@
 baseURL = 'https://www.makerarts.co.uk/'
 languageCode = 'en-us'
 title = 'Maker Arts'
-theme = "ava"
+theme = "hugo-universal-theme"
 
 [params.meta_tags]
   meta_og_image = "/images/default.jpg"
